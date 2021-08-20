@@ -1,0 +1,8 @@
+body {
+    background: url(/img/241-2417765_hitchhiking-road.jpg) no-repeat fixed center; 
+    background-size: cover; 
+}
+
+.opacity80 {
+    opacity: 0.8;
+}
